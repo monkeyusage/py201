@@ -6,8 +6,8 @@ We assume basic knowledge about python programming: functions,
 
 There are 5 sessions. The outline of the class is the following:
 
-    - numpy (numerical library)
-    - pandas (dataframe / tabular data library)
-    - matplotlib (plotting library)
-    - sklearn (machine learning library)
+    - numpy (numerical library) and pythonic code
+    - pandas (dataframe / tabular data library) and data exploration
+    - matplotlib (plotting library) and sci-kit learn (machine learning library) 
+    - more machine learning with sci-kit learn
     - final project presentation
