@@ -1,4 +1,4 @@
-# py201: python programming for data analysis
+# py201: python programming
 
 *This class is designed to provide students with basic knowledge about the main analytics libraries that the python ecosystem has.*
 
