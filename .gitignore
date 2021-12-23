@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 other
+
+# other stuff
 *solutions*
 .vscode
+movie_archive

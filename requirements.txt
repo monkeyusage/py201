@@ -1,7 +1,6 @@
 numpy
 pandas
-scikit-klearn
+scikit-learn
 ipython
 jupyter
 matplotlib
-keras

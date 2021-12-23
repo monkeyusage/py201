@@ -13,7 +13,7 @@ There are 5 sessions. The outline of the class is the following:
     - Numerical Computing with numpy (numerical library). Challenge: pythonic code
     - Tabular data manipulation with pandas (dataframe / tabular data library). Challenge: data exploration
     - Plotting and Intro to Machine Learning with matplotlib (plotting library) and sci-kit learn (machine learning library). Challenge: simple modeling 
-    - More machine learning with sci-kit learn and Intro to Deep Learning with keras. Challenge: efficient model training 
+    - More machine learning with sci-kit learn and Intro to numerical optimization. Challenge: efficient model training 
     - final project presentation
 
 
