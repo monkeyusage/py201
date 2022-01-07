@@ -130,6 +130,6 @@ dmypy.json
 other
 
 # other stuff
-*solutions*
+solutions.py
 .vscode
 movie_archive
