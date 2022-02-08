@@ -12,3 +12,7 @@ https://www.kaggle.com/yasserh/loan-default-dataset
 https://www.kaggle.com/ronitf/heart-disease-uci
 https://www.kaggle.com/rmisra/news-category-dataset
 https://www.kaggle.com/meetnagadia/consumer-complaint-finance
+https://www.kaggle.com/mojtaba142/hotel-booking
+https://www.kaggle.com/saurabhshahane/twitter-sentiment-dataset
+https://www.kaggle.com/raghadalharbi/all-products-available-on-sephora-website
+https://www.kaggle.com/zarajamshaid/language-identification-datasst
